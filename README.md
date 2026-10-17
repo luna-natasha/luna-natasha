@@ -3,19 +3,20 @@
 
 # Luna Natasha
 
-<p>Administration · Technology · Software Development</p>
+<p>Administration · Technology · Digital Solutions</p>
 
 <hr>
 
 ### About me
 
 <p>
-  I'm an Administration student from Brazil, interested in technology and software development.
+  I'm an Administration student from Brazil, interested in technology
+  and software development.
 </p>
 
 <p>
-  Currently building my knowledge and working toward studying
-  Multiplatform Software Development at FATEC.
+  Currently studying independently, with the goal of combining
+  knowledge in administration and management with digital solutions.
 </p>
 
 ### Interests
