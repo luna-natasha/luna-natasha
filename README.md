@@ -21,7 +21,7 @@
 
 ### Interests
 
-<p>Technology · Linux · Open source · Software development</p>
+<p>Linux · Open source · Software development · Web Development</p>
 
 <hr>
 
